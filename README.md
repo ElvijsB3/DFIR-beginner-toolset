@@ -16,7 +16,7 @@ No text description, yet.
 2. Sleuthkit
 3. HxD
 
-## Usefull tools
+## Useful tools
 1. MAGNET Encrypted Disk Detector: https://www.magnetforensics.com/free-tool-encrypted-disk-detector/
 2. Wireshark
 3. Network Miner
